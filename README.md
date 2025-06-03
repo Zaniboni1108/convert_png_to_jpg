@@ -2,6 +2,19 @@
 
 Este script em Python converte arquivos PNG para JPG, garantindo que imagens com fundo transparente sejam salvas com **fundo branco**, evitando o problema comum de transparências virarem fundo preto em imagens JPEG.
 
+## 📚 Índice
+
+- [🧾 O que o script faz](#-o-que-o-script-faz)
+- [📁 Estrutura de Pastas](#-estrutura-de-pastas)
+- [▶️ Como executar](#️-como-executar)
+- [⚙️ Parâmetros personalizáveis](#️-parâmetros-personalizáveis)
+- [🧪 Testes incluídos](#-testes-incluídos)
+- [❗Observações](#observações)
+- [📜 Licença](#-licença)
+
+---
+
+
 ## 🧾 O que o script faz
 
 - Lê todos os arquivos `.png` de uma pasta especificada.
